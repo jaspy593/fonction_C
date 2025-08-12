@@ -1,3 +1,4 @@
+//commentaire vaovao
 #include <stdio.h>
 void recuperation(int *a,int b)
     {
